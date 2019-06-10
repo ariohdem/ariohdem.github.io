@@ -1,0 +1,13 @@
+{
+  "name": "Testing PWA",
+  "short_name": "PWA",
+  "lang": "en-GB",
+  "start_url": "/http://apptesting.zzz.com.ua/",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "apple-icon-76x76.png",
+      "sizes": "76x76"
+    }
+  ]
+}
